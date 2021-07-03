@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "356272296220",
+    "firebase_url": "https://final-year-project-1c4f6-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "final-year-project-1c4f6",
+    "storage_bucket": "final-year-project-1c4f6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:356272296220:android:b72d582bf3886c632baad9",
+        "android_client_info": {
+          "package_name": "com.yasas.sinalproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "356272296220-pfic9iug0gmgtbu6r7ara3jacvlgds95.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0bVI2Rmf709tkuJO1FfBnj4_XxK9YWrc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "356272296220-pfic9iug0gmgtbu6r7ara3jacvlgds95.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
